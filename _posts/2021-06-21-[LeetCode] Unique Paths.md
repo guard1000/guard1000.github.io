@@ -69,13 +69,13 @@ Example 1 의 m=3, n=7 인 경우,
 
 중복이 있는 배치 경우의 수 풀이는 다음과 같습니다.
 
-![img](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Unique%20Paths_1.png)
+![img](https://github.com/guard1000/guard1000.github.io/imgs/%5BLeetCode%5D%20Unique%20Paths_1.png)
 
 
 
 그럼 이제, m과 n에 대해 일반해를 구할 수 있습니다.
 
-<img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Unique%20Paths_2.png" style="zoom:80%;" />
+<img src="https://github.com/guard1000/guard1000.github.io/imgs/%5BLeetCode%5D%20Unique%20Paths_2.png" style="zoom:80%;" />
 
 
 
