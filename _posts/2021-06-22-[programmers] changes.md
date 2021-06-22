@@ -60,7 +60,7 @@ DP를 연습하기 좋은 문제입니다.
 
 dp 테이블을 다음과 같이 잡았습니다.
 
- <img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_1.png?raw=true" style="zoom: 33%;" /> <img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_2.png?raw=true" style="zoom:33%;" />
+ <img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_1.png?raw=true" style="zoom: 40%;" /> <img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_2.png?raw=true" style="zoom:40%;" />
  
 
 가로 축은 '만들고자 하는 값'이며 세로 축은 사용가능한 돈 입니다.
@@ -71,7 +71,7 @@ dp테이블의 size는 len(money) * n으로 잡았습니다.
 
 
 
-<img src="imgs/[programmers] change_3.png" alt="image-20210622153332409" style="zoom:50%;" />
+<img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_3.png?raw=true" alt="image-20210622153332409" style="zoom:50%;" />
 
 먼저 0원을 만드는 방법은 공집합이니 1로 채워 줍니다.
 
@@ -81,7 +81,7 @@ dp테이블의 size는 len(money) * n으로 잡았습니다.
 
 
 
-<img src="imgs/[programmers] change_4.png" alt="image-20210622153623270" style="zoom:50%;" />
+<img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_4.png?raw=true" alt="image-20210622153623270" style="zoom:50%;" />
 
 2원도 사용이 가능해진 두번째 행을 채워 봅시다.
 
@@ -97,7 +97,7 @@ target이 2원일 때, 경우의수가 2가지 경우의 합으로 볼 수 있�
 
 아직 잘 감이 안온다면, 좀 더 살펴봅시다.
 
-<img src="imgs/[programmers] change_5.png" alt="image-20210622154039989" style="zoom:50%;" />
+<img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_5.png?raw=true" alt="image-20210622154039989" style="zoom:50%;" />
 
 target이 5원이라면, 어떤 경우의 수가 있을까요?
 
@@ -113,7 +113,7 @@ target이 5원이라면, 어떤 경우의 수가 있을까요?
 
 
 
-<img src="imgs/[programmers] change_6.png" alt="image-20210622154344025" style="zoom:50%;" />
+<img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_6.png?raw=true" alt="image-20210622154344025" style="zoom:50%;" />
 
 결국, dp[i] [j] = dp[i-1] [j] + dp[i] [j - money[i]] 라는 일반항을 구할 수 있습니다. 
 
