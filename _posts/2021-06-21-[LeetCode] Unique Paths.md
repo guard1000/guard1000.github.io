@@ -4,7 +4,6 @@ title:  "[LeetCode] Unique Paths"
 categories: ['Algorithm', 'LeetCode']
 ---
 
-# [LeetCode] Unique Paths
 
 [문제링크]:https://leetcode.com/problems/unique-paths/
 
