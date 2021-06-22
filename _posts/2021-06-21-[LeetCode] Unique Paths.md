@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "[LeetCode] Unique Paths"
 categories: ['Algorithm', 'LeetCode']
 ---
