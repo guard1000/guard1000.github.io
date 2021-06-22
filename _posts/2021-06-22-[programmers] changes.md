@@ -5,7 +5,7 @@ categories: ['Algorithm', '프로그래머스']
 ---
 
 ### [프로그래머스] 거스름돈 
-- [문제링크]:https://programmers.co.kr/learn/courses/30/lessons/12907
+- [문제링크]:(https://programmers.co.kr/learn/courses/30/lessons/12907)
 
 
 
@@ -49,8 +49,8 @@ DP를 연습하기 좋은 문제입니다.
 
 이 문제를 접근하는데 어려움이 있다면, 유사한 쉬운 문제로 'Climbing Stairs'와 '2 x n 타일링' 을 먼저 풀어보세요.
 
-- [Climbing Stairs]:https://leetcode.com/problems/climbing-stairs/
-- [2 x n 타일링]:https://programmers.co.kr/learn/courses/30/lessons/12900
+- [Climbing Stairs]:(https://leetcode.com/problems/climbing-stairs/)
+- [2 x n 타일링]:(https://programmers.co.kr/learn/courses/30/lessons/12900)
 
 
 
