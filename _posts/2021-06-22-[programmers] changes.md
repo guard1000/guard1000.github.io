@@ -60,7 +60,7 @@ DP를 연습하기 좋은 문제입니다.
 
 dp 테이블을 다음과 같이 잡았습니다.
 
- <img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_1.png?raw=true" alt="image-20210622153052430" style="zoom: 33%;" /> <img src="imgs/[programmers] change_2.png" alt="image-20210622153119369" style="zoom:33%;" />
+ <img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_1.png?raw=true" alt="image-20210622153052430" style="zoom: 33%;" /> <img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20change_2.png?raw=true" alt="image-20210622153119369" style="zoom:33%;" />
  
 
 가로 축은 '만들고자 하는 값'이며 세로 축은 사용가능한 돈 입니다.
