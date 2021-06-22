@@ -5,7 +5,7 @@ categories: ['Algorithm', '프로그래머스']
 ---
 
 ### [프로그래머스] 거스름돈 
-[문제링크]:https://programmers.co.kr/learn/courses/30/lessons/12907
+- [문제링크]:https://programmers.co.kr/learn/courses/30/lessons/12907
 
 
 
@@ -49,8 +49,8 @@ DP를 연습하기 좋은 문제입니다.
 
 이 문제를 접근하는데 어려움이 있다면, 유사한 쉬운 문제로 'Climbing Stairs'와 '2 x n 타일링' 을 먼저 풀어보세요.
 
-[Climbing Stairs]: https://leetcode.com/problems/climbing-stairs/
-[2 x n 타일링]: https://programmers.co.kr/learn/courses/30/lessons/12900
+- [Climbing Stairs]:https://leetcode.com/problems/climbing-stairs/
+- [2 x n 타일링]:https://programmers.co.kr/learn/courses/30/lessons/12900
 
 
 
@@ -65,7 +65,7 @@ dp 테이블을 다음과 같이 잡았습니다.
 
 가로 축은 '만들고자 하는 값'이며 세로 축은 사용가능한 돈 입니다.
 
-dp테이블의 size는 len(money) * n으로 잡았습니다.
+  dp테이블의 size는 len(money) * n으로 잡았습니다.
 
 
 
@@ -87,9 +87,9 @@ dp테이블의 size는 len(money) * n으로 잡았습니다.
 
 target이 2원일 때, 경우의수가 2가지 경우의 합으로 볼 수 있습니다. 
 
-​	1) 2원을 사용하지 않고 1원만 사용해 2원을 만드는 방법의 수
+​ 	1) 2원을 사용하지 않고 1원만 사용해 2원을 만드는 방법의 수
 
-​	2) 2원을 사용하는 경우의 target - 2 원을 만드는 방법의 수
+​ 	2) 2원을 사용하는 경우의 target - 2 원을 만드는 방법의 수
 
 
 
@@ -103,9 +103,9 @@ target이 5원이라면, 어떤 경우의 수가 있을까요?
 
 [1,1,1,1,1], [1,1,1,2], [1,2,2] 의 3가지 경우가 있을 것 이며 이것은,
 
-​	1) 2원을 사용하지 않고 1원만 사용해 5원을 만드는 방법의 수
+​	  1) 2원을 사용하지 않고 1원만 사용해 5원을 만드는 방법의 수
 
-​	2) 2원을 사용하는 경우 target - 2인  3원을 만드는 방법의 수
+​	  2) 2원을 사용하는 경우 target - 2인  3원을 만드는 방법의 수
 
 의 합인 것을 확인할 수 있습니다.
 
