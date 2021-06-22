@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Cheonuk Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/profile.jpg"
   bio              : "Junior Data Analyst."
   location         : "Kor"
   email            :
