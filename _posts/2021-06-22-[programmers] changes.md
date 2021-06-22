@@ -60,7 +60,7 @@ DP를 연습하기 좋은 문제입니다.
 
 dp 테이블을 다음과 같이 잡았습니다.
 
- <img src="C:\Program Files\Typora\[programmers] changes\image-20210622153052430.png" alt="image-20210622153052430" style="zoom: 33%;" /> <img src="C:\Program Files\Typora\[programmers] changes\image-20210622153119369.png" alt="image-20210622153119369" style="zoom:33%;" />
+ <img src="imgs/[programmers] change_1.png" alt="image-20210622153052430" style="zoom: 33%;" /> <img src="imgs/[programmers] change_2.png" alt="image-20210622153119369" style="zoom:33%;" />
 
 가로 축은 '만들고자 하는 값'이며 세로 축은 사용가능한 돈 입니다.
 
@@ -70,7 +70,7 @@ dp테이블의 size는 len(money) * n으로 잡았습니다.
 
 
 
-<img src="C:\Program Files\Typora\[programmers] changes\image-20210622153332409.png" alt="image-20210622153332409" style="zoom:50%;" />
+<img src="imgs/[programmers] change_3.png" alt="image-20210622153332409" style="zoom:50%;" />
 
 먼저 0원을 만드는 방법은 공집합이니 1로 채워 줍니다.
 
@@ -80,7 +80,7 @@ dp테이블의 size는 len(money) * n으로 잡았습니다.
 
 
 
-<img src="C:\Program Files\Typora\[programmers] changes\image-20210622153623270.png" alt="image-20210622153623270" style="zoom:50%;" />
+<img src="imgs/[programmers] change_4.png" alt="image-20210622153623270" style="zoom:50%;" />
 
 2원도 사용이 가능해진 두번째 행을 채워 봅시다.
 
@@ -96,7 +96,7 @@ target이 2원일 때, 경우의수가 2가지 경우의 합으로 볼 수 있�
 
 아직 잘 감이 안온다면, 좀 더 살펴봅시다.
 
-<img src="C:\Program Files\Typora\[programmers] changes\image-20210622154039989.png" alt="image-20210622154039989" style="zoom:50%;" />
+<img src="imgs/[programmers] change_5.png" alt="image-20210622154039989" style="zoom:50%;" />
 
 target이 5원이라면, 어떤 경우의 수가 있을까요?
 
@@ -112,7 +112,7 @@ target이 5원이라면, 어떤 경우의 수가 있을까요?
 
 
 
-<img src="C:\Program Files\Typora\[programmers] changes\image-20210622154344025.png" alt="image-20210622154344025" style="zoom:50%;" />
+<img src="imgs/[programmers] change_6.png" alt="image-20210622154344025" style="zoom:50%;" />
 
 결국, dp[i] [j] = dp[i-1] [j] + dp[i] [j - money[i]] 라는 일반항을 구할 수 있습니다. 
 
