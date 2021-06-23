@@ -1,3 +1,9 @@
+---
+layout: posts
+title:  "[LeetCode] Unique Paths"
+categories: ['Algorithm', 'LeetCode']
+---
+
 # [LeetCode] Climbing Stairs
 
 [문제링크]:(https://leetcode.com/problems/climbing-stairs/)
