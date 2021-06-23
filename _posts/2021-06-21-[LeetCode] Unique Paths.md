@@ -60,7 +60,7 @@ Output: 6
 ### Sol
 
 맵의 size가 주어지고 로봇을 Finish로 최단거리로 옮길 수 있는 경우의 수를 구하는 문제입니다.
-
+<br/>
 
 
 Example 1 의 m=3, n=7 인 경우,
@@ -76,7 +76,7 @@ Example 1 의 m=3, n=7 인 경우,
 ![img](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Unique%20Paths_1.png?raw=true)
 
 
-
+<br/>
 그럼 이제, m과 n에 대해 일반해를 구할 수 있습니다.
 
 <img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Unique%20Paths_2.png?raw=true" style="zoom:80%;" />
@@ -84,7 +84,7 @@ Example 1 의 m=3, n=7 인 경우,
 
 
 
-
+<br/>
 ### Code
 
 ```python
