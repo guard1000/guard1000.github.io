@@ -51,7 +51,7 @@ DP를 연습하기 좋은 문제입니다.
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
 
-
+<br/>
 
 
 
@@ -66,7 +66,7 @@ dp 테이블을 다음과 같이 잡았습니다.
 
   dp테이블의 size는 len(money) * n으로 잡았습니다.
 
-
+<br/>
 
 
 
@@ -76,7 +76,7 @@ dp 테이블을 다음과 같이 잡았습니다.
 
 그리고 1원만 사용 가능한 경우, target 값이 얼마든 만드는 방법은 1가지 입니다.
 
-
+<br/>
 
 
 
@@ -90,7 +90,7 @@ target이 2원일 때, 경우의수가 2가지 경우의 합으로 볼 수 있�
 
 ​ 	2) 2원을 사용하는 경우의 target - 2 원을 만드는 방법의 수
 
-
+<br/>
 
 
 
@@ -107,7 +107,7 @@ target이 5원이라면, 어떤 경우의 수가 있을까요?
 ​	  2) 2원을 사용하는 경우 target - 2인  3원을 만드는 방법의 수
 
 의 합인 것을 확인할 수 있습니다.
-
+<br/>
 
 
 
@@ -117,7 +117,7 @@ target이 5원이라면, 어떤 경우의 수가 있을까요?
 결국, dp[i] [j] = dp[i-1] [j] + dp[i] [j - money[i]] 라는 일반항을 구할 수 있습니다. 
 
 최종적으로는 return dp[-1] [-1] 을 반환하게 됩니다.
-
+<br/>
 
 
 
