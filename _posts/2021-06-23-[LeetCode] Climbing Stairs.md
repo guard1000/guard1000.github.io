@@ -5,7 +5,7 @@ categories: ['Algorithm', 'LeetCode']
 ---
 
 
-[문제링크]:(https://leetcode.com/problems/climbing-stairs/)
+[문제링크]:(https://leetcode.com/problems/climbing-stairs)
 
 
 
