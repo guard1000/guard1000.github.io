@@ -89,9 +89,7 @@ n=3 인 경우를 봅시다.
 
 따라서, 입력된 n에 대한 경우의 수는 다음과 같은 점화식을 따릅니다.
 
-$$
-a_{n} = a_{n-1} + a_{n-2} (단, a_{1}=1, a_{2}=2)
-$$
+![img](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Climbing%20Stairs_1.png?raw=true)
 
 이를 활용하여 다음과 같은 아주 간단한 코드로 문제를 해결할 수 있습니다.  
 
