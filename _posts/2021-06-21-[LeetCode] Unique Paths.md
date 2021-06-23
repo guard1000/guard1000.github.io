@@ -81,10 +81,10 @@ Example 1 의 m=3, n=7 인 경우,
 
 <img src="https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Unique%20Paths_2.png?raw=true" style="zoom:80%;" />
 
-
-
-
 <br/>
+
+
+
 ### Code
 
 ```python
