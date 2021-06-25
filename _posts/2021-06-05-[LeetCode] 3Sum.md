@@ -120,13 +120,14 @@ if sorted_num[idx] + sorted_num[-1] + sorted_num[-2] < 0:
 
 이 문제에서는 사실 타겟이 무조건 left 보다 작기 때문에(왼쪽에 위치) 더욱 쉽게 구할 수 있습니다.
 
-</br>
+<br/>
 
 
 
 최종 코드는 다음과 같습니다.
 
- ### Code
+ ###Code
+
 
 ```python
 class Solution:
