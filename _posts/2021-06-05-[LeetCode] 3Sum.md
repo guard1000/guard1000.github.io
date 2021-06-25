@@ -126,8 +126,7 @@ if sorted_num[idx] + sorted_num[-1] + sorted_num[-2] < 0:
 
 최종 코드는 다음과 같습니다.
 
- ###Code
-
+### Code
 
 ```python
 class Solution:
