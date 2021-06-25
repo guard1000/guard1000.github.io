@@ -1,3 +1,9 @@
+---
+layout: posts
+title:  "[LeetCode] 3Sum"
+categories: ['Algorithm', 'LeetCode']
+---
+
 [문제링크](https://leetcode.com/problems/3sum/)
 
 
@@ -63,7 +69,8 @@ nums = [1,0,1,2,-1,4] 인 경우
 
 
 
-![image-20210626000511681](C:\Program Files\Typora\2021-0605-[LeetCode] 3Sum\image-20210626000511681.png)
+![img](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Climbing%20Stairs_1.png?raw=true)
+
 
  위와 같이 입력된 nums를 먼저 sorted_num으로 정렬해 주었습니다. 
 
