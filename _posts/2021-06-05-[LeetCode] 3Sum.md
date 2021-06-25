@@ -69,7 +69,7 @@ nums = [1,0,1,2,-1,4] 인 경우
 
 
 
-![img](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Climbing%20Stairs_1.png?raw=true)
+![img](imgs/[LeetCode] 3Sum_1.png?raw=true)
 
 
  위와 같이 입력된 nums를 먼저 sorted_num으로 정렬해 주었습니다. 
@@ -116,7 +116,7 @@ if sorted_num[idx] + sorted_num[-1] + sorted_num[-2] < 0:
 
 이때 sorted_num의 l(left) 와 r(right)은 다음과 같은 로직으로 처리합니다.
 
-![image-20210626004039912](C:\Program Files\Typora\2021-0605-[LeetCode] 3Sum\image-20210626004039912.png)
+![img](imgs/[LeetCode] 3Sum_2.png?raw=true)
 
 이 문제에서는 사실 타겟이 무조건 left 보다 작기 때문에(왼쪽에 위치) 더욱 쉽게 구할 수 있습니다.
 
