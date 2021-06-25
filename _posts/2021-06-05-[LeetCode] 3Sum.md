@@ -56,8 +56,8 @@ Output: []
 
 - Two Pointers에 대해 궁금하신 분들은 쉬운 문제로 다음 두 문제를 추천합니다. 
 
-[백준 - 두수의합]:https://www.acmicpc.net/problem/3273
-[ 백준 - 수들의 합 2]: https://www.acmicpc.net/problem/2003
+[백준 - 두수의합]https://www.acmicpc.net/problem/3273
+[ 백준 - 수들의 합 2]https://www.acmicpc.net/problem/2003
 
 <br/> 
 
