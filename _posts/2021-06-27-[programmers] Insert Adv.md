@@ -174,7 +174,7 @@ categories: ['Algorithm', '프로그래머스']
 
 아래 이미지와 같은 상황에선, log들의 시작과 끝에 맞춰 n_count가 생성되었을 것 입니다.
 
-![image-20210627235924166](C:\Program Files\Typora\2021-06-27-[programmers] Insert Adv\image-20210627235924166.png)
+![image-20210627235924166](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20insert_adv_1.png?raw=true)
 
 <br/>
 
