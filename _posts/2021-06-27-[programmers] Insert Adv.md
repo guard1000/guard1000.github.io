@@ -15,10 +15,10 @@ categories: ['Algorithm', '프로그래머스']
 `카카오TV`에서 유명한 크리에이터로 활동 중인 `죠르디`는 환경 단체로부터 자신의 가장 인기있는 동영상에 지구온난화의 심각성을 알리기 위한 공익광고를 넣어 달라는 요청을 받았습니다. 평소에 환경 문제에 관심을 가지고 있던 "죠르디"는 요청을 받아들였고 광고효과를 높이기 위해 시청자들이 가장 많이 보는 구간에 공익광고를 넣으려고 합니다. "죠르디"는 시청자들이 해당 동영상의 어떤 구간을 재생했는 지 알 수 있는 재생구간 기록을 구했고, 해당 기록을 바탕으로 공익광고가 삽입될 최적의 위치를 고를 수 있었습니다.
 참고로 광고는 재생 중인 동영상의 오른쪽 아래에서 원래 영상과 `동시에 재생되는` PIP(Picture in Picture) 형태로 제공됩니다.
 
-![2021_kakao_cf_01.png](C:\Program Files\Typora\2021-06-27-[programmers] Insert Adv\2021_kakao_cf_01.png)
+![2021_kakao_cf_01.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/597ec277-4451-4289-8817-2970be644a69/2021_kakao_cf_01.png)
 
 다음은 "죠르디"가 공익광고가 삽입될 최적의 위치를 고르는 과정을 그림으로 설명한 것입니다.
-![2021_kakao_cf_02.png](C:\Program Files\Typora\2021-06-27-[programmers] Insert Adv\2021_kakao_cf_02.png)
+![2021_kakao_cf_02.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/e733fafb-1e6b-4d30-bbab-a22f366229e7/2021_kakao_cf_02.png)
 
 - 그림의 파란색 선은 광고를 검토 중인 "죠르디" 동영상의 전체 재생 구간을 나타냅니다.
 
@@ -117,7 +117,7 @@ categories: ['Algorithm', '프로그래머스']
 문제 예시와 같습니다.
 
 **입출력 예 #2**
-![2021_kakao_cf_03.png](C:\Program Files\Typora\2021-06-27-[programmers] Insert Adv\2021_kakao_cf_03.png)
+![2021_kakao_cf_03.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/0e58c7f5-2b81-43f2-95e1-c504f17aab9b/2021_kakao_cf_03.png)
 
 `01:00:00`에 공익광고를 삽입하면 `26:00:00`까지 재생되며, 이곳이 가장 좋은 위치입니다. 이 구간의 시청자 누적 재생시간은 다음과 같습니다.
 
@@ -128,7 +128,7 @@ categories: ['Algorithm', '프로그래머스']
 - 초록색으로 표시된 구간(`69:59:59-94:59:59`)에 광고를 삽입해도 동일한 결과를 얻을 수 있으나, `01:00:00`이 `69:59:59` 보다 빠른 시각이므로, `"01:00:00"`을 return 합니다.
 
 **입출력 예 #3**
-![2021_kakao_cf_04.png](C:\Program Files\Typora\2021-06-27-[programmers] Insert Adv\2021_kakao_cf_04.png)
+![2021_kakao_cf_04.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/8e564c82-00ce-4e1a-80fc-5cd96e465a69/2021_kakao_cf_04.png)
 
 동영상 재생시간과 공익광고 재생시간이 같으므로, 삽입할 수 있는 위치는 맨 처음(`00:00:00`)이 유일합니다.
 
