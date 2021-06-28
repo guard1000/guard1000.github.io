@@ -91,7 +91,7 @@ Output: 1
 
 <br/>
 
-![image-20210629000716895](C:\Program Files\Typora\2021-06-29-[LeetCode] First Missing Positive\image-20210629000716895.png)
+![image-20210629000716895](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20First%20Missing%20Positive_1.png?raw=true)
 
 문제 풀이는 위 사진 한장으로 설명됩니다.
 
