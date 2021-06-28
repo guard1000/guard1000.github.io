@@ -159,7 +159,7 @@ left를 answer+1 값으로 옮겨줍니다.
 
 ![image-20210628165808449](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BBJ%5D%20Wood%20Cutting_1.png?raw=true)
 
-</br>
+<br/>
 
 
 
