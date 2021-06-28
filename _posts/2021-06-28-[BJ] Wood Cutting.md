@@ -157,7 +157,7 @@ left를 answer+1 값으로 옮겨줍니다.
 
 1)번 부터 어떤 식으로 left, right, answer가 어떻게 변해가는지를 문제에서 나온 예제를 통해 확인해 봅시다. 
 
-![image-20210628165808449](C:\Program Files\Typora\2021-06-28-[BJ] Wood Cutting\image-20210628165808449.png)
+![image-20210628165808449](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BBJ%5D%20Wood%20Cutting_1.png?raw=true)
 
 </br>
 
