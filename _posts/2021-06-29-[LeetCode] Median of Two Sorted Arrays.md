@@ -117,7 +117,7 @@ categories: ['Algorithm', 'LeetCode']
 
 <br/>
 
-![image-20210629000716895](C:\Program Files\Typora\2021-06-29-[LeetCode] Median of Two Sorted Arrays\[LeetCode] Median of Two Sorted Arrays_1.png)
+![image](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Median%20of%20Two%20Sorted%20Arrays_1.png?raw=true)
 
 문제 풀이는 위 사진 한장으로 설명됩니다.
 
