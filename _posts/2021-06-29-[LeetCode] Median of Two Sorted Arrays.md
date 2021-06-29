@@ -109,7 +109,7 @@ categories: ['Algorithm', 'LeetCode']
 
 [LeetCode - First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
-- [First Missing Positive 풀이]:https://guard1000.github.io/algorithm/leetcode/LeetCode-First-Missing-Positive/
+- [First Missing Positive 풀이]https://guard1000.github.io/algorithm/leetcode/LeetCode-First-Missing-Positive/
 
   
 
