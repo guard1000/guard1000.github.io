@@ -16,7 +16,7 @@ Given `n` non-negative integers representing an elevation map where the width of
 
 **Example 1:**
 
-![img](C:\Program Files\Typora\2021-06-30-[LeetCode] Trapping Rain Water\rainwatertrap.png)
+![img](https://assets.leetcode.com/uploads/2018/10/22/rainwatertrap.png)
 
 ```
 Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]
@@ -59,7 +59,7 @@ Hard 난이도인 만큼 특히 접근 아이디어를 한번 더 고민해볼 �
 
 그래서 다른 방법을 찾아보았습니다.
 
-![image-20210629000716895](C:\Program Files\Typora\2021-06-30-[LeetCode] Trapping Rain Water\[LeetCode] Trapping Rain Water_1.png)
+![image-20210629000716895](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Trapping%20Rain%20Water_1.png?raw=true)
 
 1. 결국 물이 차려면 '좌우가 막혀' 있어야 합니다.
 
