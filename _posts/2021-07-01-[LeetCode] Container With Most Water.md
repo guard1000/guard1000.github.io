@@ -99,7 +99,7 @@ Two Pointers를 활용하는 것 입니다. Two Pointers에 익숙지 않은 분
 
 <br/> 
 
- ![img](C:\Program Files\Typora\2021-07-01-[LeetCode] Container With Most Water\[LeetCode] Container With Most Water_1.png)
+ ![img](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Container%20With%20Most%20Water_1.png?raw=true)
 
 1. 먼저 left와 right를 주어진 height의 처음과 마지막의 index로 선언해 줍니다.
 
