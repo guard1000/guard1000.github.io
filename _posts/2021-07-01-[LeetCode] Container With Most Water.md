@@ -14,7 +14,7 @@ Given `n` non-negative integers `a1, a2, ..., an` , where each represents a poin
 
 **Example 1:**
 
-![img](C:\Program Files\Typora\2021-07-01-[LeetCode] Container With Most Water\question_11.jpg)
+![img](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg)
 
 ```
 Input: height = [1,8,6,2,5,4,8,3,7]
@@ -92,11 +92,8 @@ Two Pointers를 활용하는 것 입니다. Two Pointers에 익숙지 않은 분
 [백준 - 두수의합](https://www.acmicpc.net/problem/3273)
 <br/>
 [백준 - 수들의 합 2](https://www.acmicpc.net/problem/2003)
-
 <br/>
-
 [LeetCode - 3 Sum](https://leetcode.com/problems/3sum)
-
 <br/> 
 
  ![img](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Container%20With%20Most%20Water_1.png?raw=true)
