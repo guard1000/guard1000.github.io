@@ -81,7 +81,7 @@ categories: ['Algorithm', '프로그래머스']
 
 0. 저는 counter라는 function을 하나 만들었습니다. 이녀석은 문자열 s와 몇글자씩 나눌지인 n을 입력받습니다.
 
-![image-20210702161409458](C:\Program Files\Typora\2021-07-02-[LeetCode] compress string\image-20210702161409458.png)
+![image-20210702161409458](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20compress%20string_1.png?raw=true)
 
 
 
@@ -95,7 +95,7 @@ categories: ['Algorithm', '프로그래머스']
 
 <br/>
 
-![image-20210702161637880](C:\Program Files\Typora\2021-07-02-[LeetCode] compress string\image-20210702161637880.png)
+![image-20210702161637880](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20compress%20string_2.png?raw=true)
 
 2. 이어서 while문을 통해 각 문자별 반복횟수를 정의하는 dictionary를 생성해 줍니다.
 
