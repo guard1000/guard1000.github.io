@@ -79,13 +79,15 @@ categories: ['Algorithm', '프로그래머스']
 
 <br/>
 
-#### 1. 저는 counter라는 function을 하나 만들었습니다. 이녀석은 문자열 s와 몇글자씩 나눌지인 n을 입력받습니다.
+#### 1. 
+저는 counter라는 function을 하나 만들었습니다. 이녀석은 문자열 s와 몇글자씩 나눌지인 n을 입력받습니다.
 
 ![image-20210702161409458](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20compress%20string_1.png?raw=true)
 
 
 
-#### 2. 먼저, 입력받은 s를 위 그림처럼 n에 따라 분할해 주어야겠죠?
+#### 2. 
+먼저, 입력받은 s를 위 그림처럼 n에 따라 분할해 주어야겠죠?
 
    다음과 같이 가볍게 슬라이싱으로 처리해 줍시다.
 
@@ -97,13 +99,15 @@ categories: ['Algorithm', '프로그래머스']
 
 ![image-20210702161637880](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20compress%20string_2.png?raw=true)
 
-#### 3. 이어서 while문을 통해 각 문자별 반복횟수를 정의하는 dictionary를 생성해 줍니다.
+#### 3. 
+이어서 while문을 통해 각 문자별 반복횟수를 정의하는 dictionary를 생성해 줍니다.
 
    위 그림의 예시는 n=1인 경우 idx별로 dic이 어떻게 변화하는지 확인할 수 있습니다.
 
    <br/>
 
-#### 4. 생성된 dictionary를 토대로 압축된 문자열의 길이가 얼마인지를 구해줍니다.
+#### 4. 
+생성된 dictionary를 토대로 압축된 문자열의 길이가 얼마인지를 구해줍니다.
 
    3-1)은 key들의 문자 부분에 대한 값을 구하는 부분이며
 
@@ -111,7 +115,8 @@ categories: ['Algorithm', '프로그래머스']
 
    <br/>
 
-#### 5. 이제 1~3에서 정의한 counter함수를 활용해 입력된 s에 n 값을 달리하며 가장 반환된 길이가 짧은 것을 answer로 반환하면 됩니다.
+#### 5. 
+이제 1~3에서 정의한 counter함수를 활용해 입력된 s에 n 값을 달리하며 가장 반환된 길이가 짧은 것을 answer로 반환하면 됩니다.
 
    이때, n은 len(s)의 절반까지만 확인해도 됩니다!
 
