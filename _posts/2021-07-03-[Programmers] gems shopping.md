@@ -1,9 +1,11 @@
-
 ---
 layout: posts
-title:  "[프로그래머스] 거스름돈"
-categories: ['Algorithm', '프로그래머스']
+title:  "[LeetCode] Unique Paths2"
+categories: ['Algorithm', 'LeetCode']
 ---
+
+[문제링크](https://leetcode.com/problems/unique-paths/)
+
 
 
 
