@@ -2,8 +2,6 @@
 layout: posts
 title:  "[프로그래머스] 보석 쇼핑
 categories: ['Algorithm', '프로그래머스']
-
-
 ---
 
 [문제링크](https://programmers.co.kr/learn/courses/30/lessons/67258)
