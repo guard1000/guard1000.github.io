@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "[프로그래머스] 보석쇼핑"
-categories: ['Algorithm', '']
+categories: ['Algorithm', '프로그래머스']
 ---
 
 [문제링크](https://leetcode.com/problems/unique-paths/)
