@@ -88,7 +88,7 @@ left와 right를 모두 0으로 초기화 해 주고, 가방(딕셔너리)에 �
 특히, 시간복잡도는 O(N)이라는 점이 정말 매력적입니다.
 아래 예시를 통해 첫번째 테스트케이스가 어떤 동작으로 답을 반환하게 되는지 함께 이해해 보세요 :)
 
-![image-20210702161637880](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20compress%20string_2.png?raw=true)
+![image-20210702161637880](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20gems%20shopping_1.png?raw=true?raw=true)
 
 
 
