@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "[LeetCode] Unique Paths2"
-categories: ['Algorithm', 'LeetCode']
+title:  "[프로그래머스] 보석쇼핑"
+categories: ['Algorithm', 'Programmers']
 ---
 
 [문제링크](https://leetcode.com/problems/unique-paths/)
