@@ -135,13 +135,13 @@ categories: ['Algorithm', '프로그래머스']
 
    (글씨가 많이 날라가네요 머쓱ㅎㅎㅎ)
 
-   ![image-20210709003603185](C:\Program Files\Typora\2021-0708-[programmers] bad user\image-20210709003603185.png)
+   ![image-20210709003603185](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20bad%20user_1.png?raw=true)
 
 
 
 2. python에서 제가 애정하는 패키지 itertools를 활용해 permutation(순열) 을 생성해 줍니다.
 
-   ![image-20210709003937727](C:\Program Files\Typora\2021-0708-[programmers] bad user\image-20210709003937727.png)
+   ![image-20210709003937727](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20bad%20user_2.png?raw=true)
 
 3. 이제 board를 참조하며 
 
