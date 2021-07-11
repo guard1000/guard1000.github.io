@@ -23,10 +23,10 @@ categories: ['Algorithm', '프로그래머스']
 
 예를 들어,
 
-| ![PXP.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\PXP.png) | ![PX_XP.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\PX_XP.png) | ![PX_OP.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\PX_OP.png) |
+| ![PXP.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/8c056cac-ec8f-435c-a49a-8125df055c5e/PXP.png | ![PX_XP.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/d611f66e-f9c4-4433-91ce-02887657fe7f/PX_XP.png) | ![PX_OP.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/ed707158-0511-457b-9e1a-7dbf34a776a5/PX_OP.png) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 위 그림처럼 자리 사이에 파티션이 존재한다면 맨해튼 거리가 2여도 거리두기를 **지킨 것입니다.** | 위 그림처럼 파티션을 사이에 두고 앉은 경우도 거리두기를 **지킨 것입니다.** | 위 그림처럼 자리 사이가 맨해튼 거리 2이고 사이에 빈 테이블이 있는 경우는 거리두기를 **지키지 않은 것입니다.** |
-| ![P.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\P.png) | ![O.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\O.png) | ![X.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\X.png) |
+| ![P.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/4c548421-1c32-4947-af9e-a45c61501bc4/P.png) | ![O.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/ce799a38-668a-4038-b32f-c515b8701262/O.png) | ![X.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/91e8f98b-baeb-4f81-8cb6-5bafebebdcc7/X.png) |
 |          응시자가 앉아있는 자리(`P`)를 의미합니다.           |                 빈 테이블(`O`)을 의미합니다.                 |                  파티션(`X`)을 의미합니다.                   |
 
 5개의 대기실을 본 죠르디는 각 대기실에서 응시자들이 거리두기를 잘 기키고 있는지 알고 싶어졌습니다. 자리에 앉아있는 응시자들의 정보와 대기실 구조를 대기실별로 담은 2차원 문자열 배열 `places`가 매개변수로 주어집니다. 각 대기실별로 거리두기를 지키고 있으면 1을, 한 명이라도 지키지 않고 있으면 0을 배열에 담아 return 하도록 solution 함수를 완성해 주세요.
