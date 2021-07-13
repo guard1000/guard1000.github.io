@@ -115,7 +115,7 @@ categories: ['Algorithm', '백준']
 1. 입력 수식을 탐색하며 쌍이 되는 '(' 와 ')'의 위치(idx)를 candidates 리스트로 생성했습니다.
    - 이때, 쌍이 되는지 여부는 Stack을 활용하는데요, 아래 이미지에 입력 예시를 순회하며 어떤 식으로 stack과 candidates가 변해가는지 확인해 보세요.
 
-![image](C:\Program Files\Typora\2021-07-13-[BJ] Removing Bracket\[BJ] Removing Bracket_1.png)
+![image](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BBJ%5D%20Removing%20Bracket_1.png?raw=true)
 
 <br/>
 
@@ -124,7 +124,7 @@ categories: ['Algorithm', '백준']
    - itertools의 combinations()를 활용합니다.
 3. 마지막으로, answer를 사전순 정렬해 주고, 정답을 출력해 주면 끝!
 
-![image](C:\Program Files\Typora\2021-07-13-[BJ] Removing Bracket\[BJ] Removing Bracket_2.png)
+![image](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BBJ%5D%20Removing%20Bracket_2.png?raw=true)
 
 <br/>
 
