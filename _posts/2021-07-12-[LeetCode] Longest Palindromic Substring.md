@@ -72,7 +72,7 @@ Output: "a"
 
 <br/>
 
-![image](C:\Program Files\Typora\2021-07-12-[LeetCode] Longest Palindromic Substring\[LeetCode] Longest Palindromic Substring_1.png)
+![image](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5BLeetCode%5D%20Longest%20Palindromic%20Substring_1.png?raw=true)
 
 1. 위와 같이, idx 위치를 기준으로, 짝수인경우엔 그냥 idx 전까지와 idx부터를 나누어 palindrome인지를 확인하면 됩니다.
 
