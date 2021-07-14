@@ -101,7 +101,7 @@ N개의 아파트가 일렬로 쭉 늘어서 있습니다. 이 중에서 일부 
 
 
 
-![image](C:\Program Files\Typora\2021-07-11-[programmers] distance\[programmers] station_1.png)
+![image](https://github.com/guard1000/guard1000.github.io/blob/master/imgs/%5Bprogrammers%5D%20station_1.png?raw=true)
 
 
 
