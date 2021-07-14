@@ -18,15 +18,15 @@ N개의 아파트가 일렬로 쭉 늘어서 있습니다. 이 중에서 일부 
 
 - 초기에, 1, 2, 6, 7, 8, 9번째 아파트에는 전파가 전달되지 않습니다.
 
-![기지국설치1_pvskxt.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\기지국설치1_pvskxt.png)
+![기지국설치1_pvskxt.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/fcb45e06-ebb2-4d93-98cc-b6203185e933/%E1%84%80%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%80%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B51_pvskxt.png)
 
 - 1, 7, 9번째 아파트 옥상에 기지국을 설치할 경우, 모든 아파트에 전파를 전달할 수 있습니다.
 
-![기지국설치2_kml0pb.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\기지국설치2_kml0pb.png)
+![기지국설치2_kml0pb.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/dd31ddb8-f50d-404c-a6f5-8d6a1d88f620/%E1%84%80%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%80%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B52_kml0pb.png)
 
 - 3개의 아파트보다 더 많은 아파트 옥상에 기지국을 설치할 경우에도 모든 아파트에 전파를 전달할 수 있습니다.
 
-![기지국설치3_xhv7r3.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\기지국설치3_xhv7r3.png)
+![기지국설치3_xhv7r3.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/f5801b12-f683-422d-b26f-5e23e72915dc/%E1%84%80%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%80%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B53_xhv7r3.png)
 
 이때, 우리는 기지국을 **최소로 설치**하면서 모든 아파트에 전파를 전달하려고 합니다. 위의 예시에선 최소 3개의 아파트 옥상에 기지국을 설치해야 모든 아파트에 전파를 전달할 수 있습니다.
 
@@ -55,13 +55,13 @@ N개의 아파트가 일렬로 쭉 늘어서 있습니다. 이 중에서 일부 
 
 입출력 예 #2
 
-- 초기에, 초기에, 1, 2, 6, 7, 8, 9번째 아파트에는 전파가 전달되지 않습니다.
+- 초기에, 1-6, 12-16번째 아파트에는 전파가 전달되지 않습니다.
 
-![기지국설치4_nqfrmm.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\기지국설치4_nqfrmm.png)
+![기지국설치4_nqfrmm.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/1d766102-f684-4643-bea2-02daea82e710/%E1%84%80%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%80%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B54_nqfrmm.png)
 
 - 3, 6, 14번째 아파트 옥상에 기지국을 설치할 경우 모든 아파트에 전파를 전달할 수 있습니다.
 
-![기지국설치5_zh4ebk.png](C:\Program Files\Typora\2021-07-11-[programmers] distance\기지국설치5_zh4ebk.png)
+![기지국설치5_zh4ebk.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/bc7d4fdb-cb48-4f45-b2eb-977cfb2c54dd/%E1%84%80%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%80%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B55_zh4ebk.png)
 
 
 
