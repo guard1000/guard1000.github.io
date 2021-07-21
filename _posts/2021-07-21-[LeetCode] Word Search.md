@@ -21,7 +21,7 @@ The word can be constructed from letters of sequentially adjacent cells, where a
 
 **Example 1:**
 
-![img](C:\Program Files\Typora\2021-07-21-[LeetCode] Word Search\word2.jpg)
+![img](https://assets.leetcode.com/uploads/2020/11/04/word2.jpg)
 
 ```
 Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED"
@@ -30,7 +30,7 @@ Output: true
 
 **Example 2:**
 
-![img](C:\Program Files\Typora\2021-07-21-[LeetCode] Word Search\word-1.jpg)
+![img](https://assets.leetcode.com/uploads/2020/11/04/word-1.jpg)
 
 ```
 Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "SEE"
@@ -39,7 +39,7 @@ Output: true
 
 **Example 3:**
 
-![img](C:\Program Files\Typora\2021-07-21-[LeetCode] Word Search\word3.jpg)
+![img](https://assets.leetcode.com/uploads/2020/10/15/word3.jpg)
 
 ```
 Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCB"
